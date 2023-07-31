@@ -3,4 +3,5 @@
 *.html
 __pycatch__/
 
-*.txt
+urls.txt
+venv/
